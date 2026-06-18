@@ -1,3 +1,4 @@
 added file
 I am back in dev
 want to try unstage 1
+amend new
